@@ -18,6 +18,6 @@ public class Main{
 		System.out.println(Shortener.shorten("3(5-4x)+10"));
 		System.out.println(Shortener.shorten("3+5y-4(2y+5)"));
 		System.out.println(Shortener.shorten("5(3b+4)-2(6-7b)"));
-		// System.out.println(Shortener.shorten(""));
+		System.out.println(Shortener.shorten("(a+b)(c+d)(e+f)(g+h)"));
 	}
 }
